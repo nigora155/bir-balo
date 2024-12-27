@@ -1,0 +1,64 @@
+.tepa{
+    width: 600px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+.chap1{
+    width: 200px;
+    height: 100px;
+    background-color: gray;
+    color: white;
+    text-align: center;
+}
+.chap2{
+    width: 200px;
+    height: 150px;
+    background-color: green;
+    color: white;
+    text-align: center;
+    
+}
+.on1{
+    width: 400px;
+    height: 150px;
+    background-color: greenyellow;
+    color: white;
+    text-align: center;
+}
+.on2{
+    width: 400px;
+    height: 100px;
+    background-color: orangered;
+    color: white;
+}
+.ota1{
+    display: flex;
+}
+.ota2{
+    display: flex;
+}
+    .chap3{
+        width: 500px;
+       height: 70px;
+        background-color: greenyellow;
+        color: white;
+        text-align: center;
+    }
+    .on3{
+        width: 100px;
+        height: 70px;
+        background-color: aqua;
+        color: white;
+    }
+    .ohirgi{
+display: flex;
+    }
+    .ohiriniohiri{
+        width: 600px;
+    height: 50px;
+    background-color: green;
+    color: white;
+    text-align: center;
+    }
